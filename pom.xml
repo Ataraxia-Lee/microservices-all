@@ -18,6 +18,8 @@
     <modules>
         <module>../microservice-auth</module>
         <module>../microservice-common</module>
+        <module>../microservice-user</module>
+        <module>../microservice-data</module>
     </modules>
 
 
